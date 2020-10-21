@@ -1,0 +1,3 @@
+[submodule "libraries/NeoPixelBus"]
+	path = libraries/NeoPixelBus
+	url = https://github.com/Makuna/NeoPixelBus.git
